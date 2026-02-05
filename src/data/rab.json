@@ -1,0 +1,1388 @@
+[
+  {
+    "id": "row-3",
+    "numbering": "A)",
+    "description": "PoC",
+    "unitPrice": 0,
+    "totalPrice": 370487500,
+    "children": [
+      {
+        "id": "row-4",
+        "numbering": "I. Persiapan, Integrasi & Pre-Processing Data",
+        "description": "Persiapan, Integrasi & Pre-Processing Data",
+        "unitPrice": 0,
+        "totalPrice": 193087500,
+        "children": [
+          {
+            "id": "row-5",
+            "numbering": "A.",
+            "description": "Biaya Langsung Personel",
+            "unitPrice": 0,
+            "totalPrice": 19300000,
+            "children": [
+              {
+                "id": "row-6",
+                "numbering": "1",
+                "description": "Honorarium Tenaga Ahli",
+                "unitPrice": 0,
+                "totalPrice": 19300000,
+                "children": [
+                  {
+                    "id": "row-7",
+                    "numbering": "a.",
+                    "description": "Honor Peneliti Utama dengan Jabatan Profesor",
+                    "qty": 1,
+                    "hours": 2,
+                    "days": 1,
+                    "volume": 2,
+                    "unit": "Orang Jam",
+                    "unitPrice": 850000,
+                    "totalPrice": 1700000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-8",
+                    "numbering": "b.",
+                    "description": "Honor Peneliti Utama dengan Lektor",
+                    "qty": 1,
+                    "hours": 2,
+                    "days": 1,
+                    "volume": 2,
+                    "unit": "Orang Jam",
+                    "unitPrice": 550000,
+                    "totalPrice": 1100000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-9",
+                    "numbering": "c.",
+                    "description": "Team Manager (Manajemen Proyek)",
+                    "qty": 2,
+                    "months": 0.25,
+                    "volume": 0.5,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 7000000,
+                    "totalPrice": 3500000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-10",
+                    "numbering": "d.",
+                    "description": "AI Engineer (Pengembang Model Deep Learning)",
+                    "qty": 2,
+                    "months": 0.25,
+                    "volume": 0.5,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 3250000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-11",
+                    "numbering": "e.",
+                    "description": "Remote Sensing Engineer (Analisis Spasiotemporal)",
+                    "qty": 2,
+                    "months": 0.25,
+                    "volume": 0.5,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 3250000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-12",
+                    "numbering": "f.",
+                    "description": "IT Specialist (Pembuatan Dashboard Monitoring)",
+                    "qty": 2,
+                    "months": 0.25,
+                    "volume": 0.5,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 3250000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-13",
+                    "numbering": "g.",
+                    "description": "GIS Engineer (Digitasi on Screen)",
+                    "qty": 2,
+                    "months": 0.25,
+                    "volume": 0.5,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 3250000,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "row-15",
+            "numbering": "B",
+            "description": "Biaya Langsung Non Personil",
+            "unitPrice": 0,
+            "totalPrice": 173787500,
+            "children": [
+              {
+                "id": "row-16",
+                "numbering": "1",
+                "description": "Sewa Peralatan dan Perlengkapan",
+                "unitPrice": 0,
+                "totalPrice": 173787500,
+                "children": [
+                  {
+                    "id": "row-17",
+                    "numbering": "a.",
+                    "description": "PC High spec (AMD Ryzen 7, 64 GB, VGA RTX 5060 TI)",
+                    "qty": 2,
+                    "months": 0.25,
+                    "volume": 0.5,
+                    "unit": "Unit Bulan",
+                    "unitPrice": 3500000,
+                    "totalPrice": 1750000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-18",
+                    "numbering": "b.",
+                    "description": "Laptop High Spec (Core i5, 16 GB, RTX 3050)",
+                    "qty": 5,
+                    "months": 0.25,
+                    "volume": 1.25,
+                    "unit": "Unit Bulan",
+                    "unitPrice": 2750000,
+                    "totalPrice": 3437500,
+                    "children": []
+                  },
+                  {
+                    "id": "row-19",
+                    "numbering": "c.",
+                    "description": "Subscription Google Cloud Platform",
+                    "qty": 1,
+                    "months": 12,
+                    "volume": 12,
+                    "unit": "Unit Bulan",
+                    "unitPrice": 8400000,
+                    "totalPrice": 100800000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-20",
+                    "numbering": "d.",
+                    "description": "Subscription Planetscope",
+                    "qty": 1,
+                    "months": 12,
+                    "volume": 12,
+                    "unit": "Unit Bulan",
+                    "unitPrice": 4250000,
+                    "totalPrice": 51000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-21",
+                    "numbering": "e.",
+                    "description": "NAS (Network attached storage) untuk server",
+                    "qty": 2,
+                    "months": 12,
+                    "volume": 24,
+                    "unit": "Unit Bulan",
+                    "unitPrice": 700000,
+                    "totalPrice": 16800000,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "row-24",
+        "numbering": "II. Pembuatan Training Dataset",
+        "description": "Pembuatan Training Dataset",
+        "unitPrice": 0,
+        "totalPrice": 95200000,
+        "children": [
+          {
+            "id": "row-25",
+            "numbering": "A.",
+            "description": "Biaya Langsung Personel",
+            "unitPrice": 0,
+            "totalPrice": 77200000,
+            "children": [
+              {
+                "id": "row-26",
+                "numbering": "1",
+                "description": "Honorarium Tenaga Ahli",
+                "unitPrice": 0,
+                "totalPrice": 77200000,
+                "children": [
+                  {
+                    "id": "row-27",
+                    "numbering": "a.",
+                    "description": "Honor Peneliti Utama dengan Jabatan Profesor",
+                    "qty": 1,
+                    "hours": 2,
+                    "days": 4,
+                    "volume": 8,
+                    "unit": "Orang Jam",
+                    "unitPrice": 850000,
+                    "totalPrice": 6800000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-28",
+                    "numbering": "b.",
+                    "description": "Honor Peneliti Utama dengan Lektor",
+                    "qty": 1,
+                    "hours": 2,
+                    "days": 4,
+                    "volume": 8,
+                    "unit": "Orang Jam",
+                    "unitPrice": 550000,
+                    "totalPrice": 4400000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-29",
+                    "numbering": "c.",
+                    "description": "Team Manager (Manajemen Proyek)",
+                    "qty": 2,
+                    "months": 1,
+                    "volume": 2,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 7000000,
+                    "totalPrice": 14000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-30",
+                    "numbering": "d.",
+                    "description": "AI Engineer (Pengembang Model Deep Learning)",
+                    "qty": 2,
+                    "months": 1,
+                    "volume": 2,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 13000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-31",
+                    "numbering": "e.",
+                    "description": "Remote Sensing Engineer (Analisis Spasiotemporal)",
+                    "qty": 2,
+                    "months": 1,
+                    "volume": 2,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 13000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-32",
+                    "numbering": "f.",
+                    "description": "IT Specialist (Pembuatan Dashboard Monitoring)",
+                    "qty": 2,
+                    "months": 1,
+                    "volume": 2,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 13000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-33",
+                    "numbering": "g.",
+                    "description": "GIS Engineer (Digitasi on Screen)",
+                    "qty": 2,
+                    "months": 1,
+                    "volume": 2,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 13000000,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "row-35",
+            "numbering": "B",
+            "description": "Biaya Langsung Non Personil",
+            "unitPrice": 0,
+            "totalPrice": 18000000,
+            "children": [
+              {
+                "id": "row-36",
+                "numbering": "1",
+                "description": "Sewa Peralatan dan Perlengkapan",
+                "unitPrice": 0,
+                "totalPrice": 18000000,
+                "children": [
+                  {
+                    "id": "row-37",
+                    "numbering": "a.",
+                    "description": "PC High spec (AMD Ryzen 7, 64 GB, VGA RTX 5060 TI)",
+                    "qty": 2,
+                    "months": 1,
+                    "volume": 2,
+                    "unit": "Unit Bulan",
+                    "unitPrice": 3500000,
+                    "totalPrice": 7000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-38",
+                    "numbering": "b.",
+                    "description": "Laptop High Spec (Core i5, 16 GB, RTX 3050)",
+                    "qty": 4,
+                    "months": 1,
+                    "volume": 4,
+                    "unit": "Unit Bulan",
+                    "unitPrice": 2750000,
+                    "totalPrice": 11000000,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "row-41",
+        "numbering": "III. Pengembangan Model AI",
+        "description": "Pengembangan Model AI",
+        "unitPrice": 0,
+        "totalPrice": 47600000,
+        "children": [
+          {
+            "id": "row-42",
+            "numbering": "A.",
+            "description": "Biaya Langsung Personel",
+            "unitPrice": 0,
+            "totalPrice": 38600000,
+            "children": [
+              {
+                "id": "row-43",
+                "numbering": "1",
+                "description": "Honorarium Tenaga Ahli",
+                "unitPrice": 0,
+                "totalPrice": 38600000,
+                "children": [
+                  {
+                    "id": "row-44",
+                    "numbering": "a.",
+                    "description": "Honor Peneliti Utama dengan Jabatan Profesor",
+                    "qty": 1,
+                    "hours": 2,
+                    "days": 2,
+                    "volume": 4,
+                    "unit": "Orang Jam",
+                    "unitPrice": 850000,
+                    "totalPrice": 3400000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-45",
+                    "numbering": "b.",
+                    "description": "Honor Peneliti Utama dengan Lektor",
+                    "qty": 1,
+                    "hours": 2,
+                    "days": 2,
+                    "volume": 4,
+                    "unit": "Orang Jam",
+                    "unitPrice": 550000,
+                    "totalPrice": 2200000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-46",
+                    "numbering": "c.",
+                    "description": "Team Manager (Manajemen Proyek)",
+                    "qty": 2,
+                    "months": 0.5,
+                    "volume": 1,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 7000000,
+                    "totalPrice": 7000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-47",
+                    "numbering": "d.",
+                    "description": "AI Engineer (Pengembang Model Deep Learning)",
+                    "qty": 2,
+                    "months": 0.5,
+                    "volume": 1,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 6500000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-48",
+                    "numbering": "e.",
+                    "description": "Remote Sensing Engineer (Analisis Spasiotemporal)",
+                    "qty": 2,
+                    "months": 0.5,
+                    "volume": 1,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 6500000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-49",
+                    "numbering": "f.",
+                    "description": "IT Specialist (Pembuatan Dashboard Monitoring)",
+                    "qty": 2,
+                    "months": 0.5,
+                    "volume": 1,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 6500000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-50",
+                    "numbering": "g.",
+                    "description": "GIS Engineer (Digitasi on Screen)",
+                    "qty": 2,
+                    "months": 0.5,
+                    "volume": 1,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 6500000,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "row-52",
+            "numbering": "B",
+            "description": "Biaya Langsung Non Personil",
+            "unitPrice": 0,
+            "totalPrice": 9000000,
+            "children": [
+              {
+                "id": "row-53",
+                "numbering": "1",
+                "description": "Sewa Peralatan dan Perlengkapan",
+                "unitPrice": 0,
+                "totalPrice": 9000000,
+                "children": [
+                  {
+                    "id": "row-54",
+                    "numbering": "a.",
+                    "description": "PC High spec (AMD Ryzen 7, 64 GB, VGA RTX 5060 TI)",
+                    "qty": 2,
+                    "months": 0.5,
+                    "volume": 1,
+                    "unit": "Unit Bulan",
+                    "unitPrice": 3500000,
+                    "totalPrice": 3500000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-55",
+                    "numbering": "b.",
+                    "description": "Laptop High Spec (Core i5, 16 GB, RTX 3050)",
+                    "qty": 4,
+                    "months": 0.5,
+                    "volume": 2,
+                    "unit": "Unit Bulan",
+                    "unitPrice": 2750000,
+                    "totalPrice": 5500000,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "row-58",
+        "numbering": "IV. Pembuatan Dashboard Monitoring",
+        "description": "Pembuatan Dashboard Monitoring",
+        "unitPrice": 0,
+        "totalPrice": 34600000,
+        "children": [
+          {
+            "id": "row-59",
+            "numbering": "A.",
+            "description": "Biaya Langsung Personel",
+            "unitPrice": 0,
+            "totalPrice": 25600000,
+            "children": [
+              {
+                "id": "row-60",
+                "numbering": "1",
+                "description": "Honorarium Tenaga Ahli",
+                "unitPrice": 0,
+                "totalPrice": 25600000,
+                "children": [
+                  {
+                    "id": "row-61",
+                    "numbering": "a.",
+                    "description": "Honor Peneliti Utama dengan Jabatan Profesor",
+                    "qty": 1,
+                    "hours": 2,
+                    "days": 2,
+                    "volume": 4,
+                    "unit": "Orang Jam",
+                    "unitPrice": 850000,
+                    "totalPrice": 3400000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-62",
+                    "numbering": "b.",
+                    "description": "Honor Peneliti Utama dengan Lektor",
+                    "qty": 1,
+                    "hours": 2,
+                    "days": 2,
+                    "volume": 4,
+                    "unit": "Orang Jam",
+                    "unitPrice": 550000,
+                    "totalPrice": 2200000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-63",
+                    "numbering": "c.",
+                    "description": "Team Manager (Manajemen Proyek)",
+                    "qty": 2,
+                    "months": 0.5,
+                    "volume": 1,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 7000000,
+                    "totalPrice": 7000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-64",
+                    "numbering": "d.",
+                    "description": "AI Engineer (Pengembang Model Deep Learning)",
+                    "qty": 2,
+                    "months": 0.5,
+                    "volume": 1,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 6500000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-65",
+                    "numbering": "e.",
+                    "description": "IT Specialist (Pembuatan Dashboard Monitoring)",
+                    "qty": 2,
+                    "months": 0.5,
+                    "volume": 1,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 6500000,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "row-67",
+            "numbering": "B",
+            "description": "Biaya Langsung Non Personil",
+            "unitPrice": 0,
+            "totalPrice": 9000000,
+            "children": [
+              {
+                "id": "row-68",
+                "numbering": "1",
+                "description": "Sewa Peralatan dan Perlengkapan",
+                "unitPrice": 0,
+                "totalPrice": 9000000,
+                "children": [
+                  {
+                    "id": "row-69",
+                    "numbering": "a.",
+                    "description": "PC High spec (AMD Ryzen 7, 64 GB, VGA RTX 5060 TI)",
+                    "qty": 2,
+                    "months": 0.5,
+                    "volume": 1,
+                    "unit": "Unit Bulan",
+                    "unitPrice": 3500000,
+                    "totalPrice": 3500000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-70",
+                    "numbering": "b.",
+                    "description": "Laptop High Spec (Core i5, 16 GB, RTX 3050)",
+                    "qty": 4,
+                    "months": 0.5,
+                    "volume": 2,
+                    "unit": "Unit Bulan",
+                    "unitPrice": 2750000,
+                    "totalPrice": 5500000,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "row-74",
+    "numbering": "B)",
+    "description": "Phase I",
+    "unitPrice": 0,
+    "totalPrice": 184800000,
+    "children": [
+      {
+        "id": "row-75",
+        "numbering": "I. Retraining AI Data",
+        "description": "Retraining AI Data",
+        "unitPrice": 0,
+        "totalPrice": 95200000,
+        "children": [
+          {
+            "id": "row-76",
+            "numbering": "A.",
+            "description": "Biaya Langsung Personel",
+            "unitPrice": 0,
+            "totalPrice": 77200000,
+            "children": [
+              {
+                "id": "row-77",
+                "numbering": "1",
+                "description": "Honorarium Tenaga Ahli",
+                "unitPrice": 0,
+                "totalPrice": 77200000,
+                "children": [
+                  {
+                    "id": "row-78",
+                    "numbering": "a.",
+                    "description": "Honor Peneliti Utama dengan Jabatan Profesor",
+                    "qty": 1,
+                    "hours": 2,
+                    "days": 4,
+                    "volume": 8,
+                    "unit": "Orang Jam",
+                    "unitPrice": 850000,
+                    "totalPrice": 6800000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-79",
+                    "numbering": "b.",
+                    "description": "Honor Peneliti Utama dengan Lektor",
+                    "qty": 1,
+                    "hours": 2,
+                    "days": 4,
+                    "volume": 8,
+                    "unit": "Orang Jam",
+                    "unitPrice": 550000,
+                    "totalPrice": 4400000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-80",
+                    "numbering": "c.",
+                    "description": "Team Manager (Manajemen Proyek)",
+                    "qty": 2,
+                    "months": 1,
+                    "volume": 2,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 7000000,
+                    "totalPrice": 14000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-81",
+                    "numbering": "d.",
+                    "description": "AI Engineer (Pengembang Model Deep Learning)",
+                    "qty": 2,
+                    "months": 1,
+                    "volume": 2,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 13000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-82",
+                    "numbering": "e.",
+                    "description": "Remote Sensing Engineer (Analisis Spasiotemporal)",
+                    "qty": 2,
+                    "months": 1,
+                    "volume": 2,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 13000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-83",
+                    "numbering": "f.",
+                    "description": "IT Specialis (Pengembang Web App dan Desktop App)",
+                    "qty": 2,
+                    "months": 1,
+                    "volume": 2,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 13000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-84",
+                    "numbering": "g.",
+                    "description": "GIS Engineer (Digitasi on Screen)",
+                    "qty": 2,
+                    "months": 1,
+                    "volume": 2,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 13000000,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "row-86",
+            "numbering": "B",
+            "description": "Biaya Langsung Non Personil",
+            "unitPrice": 0,
+            "totalPrice": 18000000,
+            "children": [
+              {
+                "id": "row-87",
+                "numbering": "1",
+                "description": "Sewa Peralatan dan Perlengkapan",
+                "unitPrice": 0,
+                "totalPrice": 18000000,
+                "children": [
+                  {
+                    "id": "row-88",
+                    "numbering": "a.",
+                    "description": "PC High spec (AMD Ryzen 7, 64 GB, VGA RTX 5060 TI)",
+                    "qty": 2,
+                    "months": 1,
+                    "volume": 2,
+                    "unit": "Unit Bulan",
+                    "unitPrice": 3500000,
+                    "totalPrice": 7000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-89",
+                    "numbering": "b.",
+                    "description": "Laptop High Spec (Core i5, 16 GB, RTX 3050)",
+                    "qty": 4,
+                    "months": 1,
+                    "volume": 4,
+                    "unit": "Unit Bulan",
+                    "unitPrice": 2750000,
+                    "totalPrice": 11000000,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "row-92",
+        "numbering": "II. Pengembangan AI Forest Change Detection di AMMAN",
+        "description": "Pengembangan AI Forest Change Detection di AMMAN",
+        "unitPrice": 0,
+        "totalPrice": 89600000,
+        "children": [
+          {
+            "id": "row-93",
+            "numbering": "A.",
+            "description": "Biaya Langsung Personel",
+            "unitPrice": 0,
+            "totalPrice": 71600000,
+            "children": [
+              {
+                "id": "row-94",
+                "numbering": "1",
+                "description": "Honorarium Tenaga Ahli",
+                "unitPrice": 0,
+                "totalPrice": 71600000,
+                "children": [
+                  {
+                    "id": "row-95",
+                    "numbering": "a.",
+                    "description": "Honor Peneliti Utama dengan Jabatan Profesor",
+                    "qty": 1,
+                    "hours": 2,
+                    "days": 4,
+                    "volume": 4,
+                    "unit": "Orang Jam",
+                    "unitPrice": 850000,
+                    "totalPrice": 3400000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-96",
+                    "numbering": "b.",
+                    "description": "Honor Peneliti Utama dengan Lektor",
+                    "qty": 1,
+                    "hours": 2,
+                    "days": 4,
+                    "volume": 4,
+                    "unit": "Orang Jam",
+                    "unitPrice": 550000,
+                    "totalPrice": 2200000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-97",
+                    "numbering": "c.",
+                    "description": "Team Manager (Manajemen Proyek)",
+                    "qty": 2,
+                    "months": 1,
+                    "volume": 2,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 7000000,
+                    "totalPrice": 14000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-98",
+                    "numbering": "d.",
+                    "description": "AI Engineer (Pengembang Model Deep Learning)",
+                    "qty": 2,
+                    "months": 1,
+                    "volume": 2,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 13000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-99",
+                    "numbering": "e.",
+                    "description": "Remote Sensing Engineer (Analisis Spasiotemporal)",
+                    "qty": 2,
+                    "months": 1,
+                    "volume": 2,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 13000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-100",
+                    "numbering": "f.",
+                    "description": "IT Specialis (Pengembang Web App dan Desktop App)",
+                    "qty": 2,
+                    "months": 1,
+                    "volume": 2,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 13000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-101",
+                    "numbering": "g.",
+                    "description": "GIS Engineer (Digitasi on Screen)",
+                    "qty": 2,
+                    "months": 1,
+                    "volume": 2,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 13000000,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "row-103",
+            "numbering": "B",
+            "description": "Biaya Langsung Non Personil",
+            "unitPrice": 0,
+            "totalPrice": 18000000,
+            "children": [
+              {
+                "id": "row-104",
+                "numbering": "1",
+                "description": "Sewa Peralatan dan Perlengkapan",
+                "unitPrice": 0,
+                "totalPrice": 18000000,
+                "children": [
+                  {
+                    "id": "row-105",
+                    "numbering": "a.",
+                    "description": "PC High spec (AMD Ryzen 7, 64 GB, VGA RTX 5060 TI)",
+                    "qty": 2,
+                    "months": 1,
+                    "volume": 2,
+                    "unit": "Unit Bulan",
+                    "unitPrice": 3500000,
+                    "totalPrice": 7000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-106",
+                    "numbering": "b.",
+                    "description": "Laptop High Spec (Core i5, 16 GB, RTX 3050)",
+                    "qty": 4,
+                    "months": 1,
+                    "volume": 4,
+                    "unit": "Unit Bulan",
+                    "unitPrice": 2750000,
+                    "totalPrice": 11000000,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "row-110",
+    "numbering": "C)",
+    "description": "Phase II",
+    "unitPrice": 0,
+    "totalPrice": 661800000,
+    "children": [
+      {
+        "id": "row-111",
+        "numbering": "I. Implementasi AI pada Server AMMAN",
+        "description": "Implementasi AI pada Server AMMAN",
+        "unitPrice": 0,
+        "totalPrice": 207600000,
+        "children": [
+          {
+            "id": "row-112",
+            "numbering": "A.",
+            "description": "Biaya Langsung Personel",
+            "unitPrice": 0,
+            "totalPrice": 153600000,
+            "children": [
+              {
+                "id": "row-113",
+                "numbering": "1",
+                "description": "Honorarium Tenaga Ahli",
+                "unitPrice": 0,
+                "totalPrice": 153600000,
+                "children": [
+                  {
+                    "id": "row-114",
+                    "numbering": "a.",
+                    "description": "Honor Peneliti Utama dengan Jabatan Profesor",
+                    "qty": 1,
+                    "hours": 2,
+                    "days": 12,
+                    "volume": 24,
+                    "unit": "Orang Jam",
+                    "unitPrice": 850000,
+                    "totalPrice": 20400000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-115",
+                    "numbering": "b.",
+                    "description": "Honor Peneliti Utama dengan Lektor",
+                    "qty": 1,
+                    "hours": 2,
+                    "days": 12,
+                    "volume": 24,
+                    "unit": "Orang Jam",
+                    "unitPrice": 550000,
+                    "totalPrice": 13200000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-116",
+                    "numbering": "c.",
+                    "description": "Team Manager (Manajemen Proyek)",
+                    "qty": 2,
+                    "months": 3,
+                    "volume": 6,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 7000000,
+                    "totalPrice": 42000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-117",
+                    "numbering": "d.",
+                    "description": "AI Engineer (Pengembang Model Deep Learning)",
+                    "qty": 2,
+                    "months": 3,
+                    "volume": 6,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 39000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-118",
+                    "numbering": "e.",
+                    "description": "IT Specialis (Pengembang Web App dan Desktop App)",
+                    "qty": 2,
+                    "months": 3,
+                    "volume": 6,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 39000000,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "row-120",
+            "numbering": "B",
+            "description": "Biaya Langsung Non Personil",
+            "unitPrice": 0,
+            "totalPrice": 54000000,
+            "children": [
+              {
+                "id": "row-121",
+                "numbering": "1",
+                "description": "Sewa Peralatan dan Perlengkapan",
+                "unitPrice": 0,
+                "totalPrice": 54000000,
+                "children": [
+                  {
+                    "id": "row-122",
+                    "numbering": "a.",
+                    "description": "PC High spec (AMD Ryzen 7, 64 GB, VGA RTX 5060 TI)",
+                    "qty": 2,
+                    "months": 3,
+                    "volume": 6,
+                    "unit": "Unit Bulan",
+                    "unitPrice": 3500000,
+                    "totalPrice": 21000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-123",
+                    "numbering": "b.",
+                    "description": "Laptop High Spec (Core i5, 16 GB, RTX 3050)",
+                    "qty": 4,
+                    "months": 3,
+                    "volume": 12,
+                    "unit": "Unit Bulan",
+                    "unitPrice": 2750000,
+                    "totalPrice": 33000000,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "row-126",
+        "numbering": "II. Pengembangan Single Interface pada Server AMMAN",
+        "description": "Pengembangan Single Interface pada Server AMMAN",
+        "unitPrice": 0,
+        "totalPrice": 207600000,
+        "children": [
+          {
+            "id": "row-127",
+            "numbering": "A.",
+            "description": "Biaya Langsung Personel",
+            "unitPrice": 0,
+            "totalPrice": 153600000,
+            "children": [
+              {
+                "id": "row-128",
+                "numbering": "1",
+                "description": "Honorarium Tenaga Ahli",
+                "unitPrice": 0,
+                "totalPrice": 153600000,
+                "children": [
+                  {
+                    "id": "row-129",
+                    "numbering": "a.",
+                    "description": "Honor Peneliti Utama dengan Jabatan Profesor",
+                    "qty": 1,
+                    "hours": 2,
+                    "days": 12,
+                    "volume": 24,
+                    "unit": "Orang Jam",
+                    "unitPrice": 850000,
+                    "totalPrice": 20400000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-130",
+                    "numbering": "b.",
+                    "description": "Honor Peneliti Utama dengan Lektor",
+                    "qty": 1,
+                    "hours": 2,
+                    "days": 12,
+                    "volume": 24,
+                    "unit": "Orang Jam",
+                    "unitPrice": 550000,
+                    "totalPrice": 13200000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-131",
+                    "numbering": "c.",
+                    "description": "Team Manager (Manajemen Proyek)",
+                    "qty": 2,
+                    "months": 3,
+                    "volume": 6,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 7000000,
+                    "totalPrice": 42000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-132",
+                    "numbering": "d.",
+                    "description": "AI Engineer (Pengembang Model Deep Learning)",
+                    "qty": 2,
+                    "months": 3,
+                    "volume": 6,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 39000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-133",
+                    "numbering": "e.",
+                    "description": "IT Specialis (Pengembang Web App dan Desktop App)",
+                    "qty": 2,
+                    "months": 3,
+                    "volume": 6,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 39000000,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "row-135",
+            "numbering": "B",
+            "description": "Biaya Langsung Non Personil",
+            "unitPrice": 0,
+            "totalPrice": 54000000,
+            "children": [
+              {
+                "id": "row-136",
+                "numbering": "1",
+                "description": "Sewa Peralatan dan Perlengkapan",
+                "unitPrice": 0,
+                "totalPrice": 54000000,
+                "children": [
+                  {
+                    "id": "row-137",
+                    "numbering": "a.",
+                    "description": "PC High spec (AMD Ryzen 7, 64 GB, VGA RTX 5060 TI)",
+                    "qty": 2,
+                    "months": 3,
+                    "volume": 6,
+                    "unit": "Unit Bulan",
+                    "unitPrice": 3500000,
+                    "totalPrice": 21000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-138",
+                    "numbering": "b.",
+                    "description": "Laptop High Spec (Core i5, 16 GB, RTX 3050)",
+                    "qty": 4,
+                    "months": 3,
+                    "volume": 12,
+                    "unit": "Unit Bulan",
+                    "unitPrice": 2750000,
+                    "totalPrice": 33000000,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "row-141",
+        "numbering": "III. Monitoring dan Validasi Hasil AI",
+        "description": "Monitoring dan Validasi Hasil AI",
+        "unitPrice": 0,
+        "totalPrice": 246600000,
+        "children": [
+          {
+            "id": "row-142",
+            "numbering": "A.",
+            "description": "Biaya Langsung Personel",
+            "unitPrice": 0,
+            "totalPrice": 192600000,
+            "children": [
+              {
+                "id": "row-143",
+                "numbering": "1",
+                "description": "Honorarium Tenaga Ahli",
+                "unitPrice": 0,
+                "totalPrice": 192600000,
+                "children": [
+                  {
+                    "id": "row-144",
+                    "numbering": "a.",
+                    "description": "Honor Peneliti Utama dengan Jabatan Profesor",
+                    "qty": 1,
+                    "hours": 2,
+                    "days": 12,
+                    "volume": 24,
+                    "unit": "Orang Jam",
+                    "unitPrice": 850000,
+                    "totalPrice": 20400000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-145",
+                    "numbering": "b.",
+                    "description": "Honor Peneliti Utama dengan Lektor",
+                    "qty": 1,
+                    "hours": 2,
+                    "days": 12,
+                    "volume": 24,
+                    "unit": "Orang Jam",
+                    "unitPrice": 550000,
+                    "totalPrice": 13200000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-146",
+                    "numbering": "c.",
+                    "description": "Team Manager (Manajemen Proyek)",
+                    "qty": 2,
+                    "months": 3,
+                    "volume": 6,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 7000000,
+                    "totalPrice": 42000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-147",
+                    "numbering": "d.",
+                    "description": "AI Engineer (Pengembang Model Deep Learning)",
+                    "qty": 2,
+                    "months": 3,
+                    "volume": 6,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 39000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-148",
+                    "numbering": "e.",
+                    "description": "Remote Sensing Engineer (Analisis Spasiotemporal)",
+                    "qty": 2,
+                    "months": 3,
+                    "volume": 6,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 39000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-149",
+                    "numbering": "f.",
+                    "description": "IT Specialist (Pembuatan Dashboard Monitoring)",
+                    "qty": 2,
+                    "months": 3,
+                    "volume": 6,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 39000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-150",
+                    "numbering": "g.",
+                    "description": "GIS Engineer (Digitasi on Screen)",
+                    "qty": 2,
+                    "months": 3,
+                    "volume": 6,
+                    "unit": "Orang Bulan",
+                    "unitPrice": 6500000,
+                    "totalPrice": 39000000,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "row-152",
+            "numbering": "B",
+            "description": "Biaya Langsung Non Personil",
+            "unitPrice": 0,
+            "totalPrice": 54000000,
+            "children": [
+              {
+                "id": "row-153",
+                "numbering": "1",
+                "description": "Sewa Peralatan dan Perlengkapan",
+                "unitPrice": 0,
+                "totalPrice": 54000000,
+                "children": [
+                  {
+                    "id": "row-154",
+                    "numbering": "a.",
+                    "description": "PC High spec (AMD Ryzen 7, 64 GB, VGA RTX 5060 TI)",
+                    "qty": 2,
+                    "months": 3,
+                    "volume": 6,
+                    "unit": "Unit Bulan",
+                    "unitPrice": 3500000,
+                    "totalPrice": 21000000,
+                    "children": []
+                  },
+                  {
+                    "id": "row-155",
+                    "numbering": "b.",
+                    "description": "Laptop High Spec (Core i5, 16 GB, RTX 3050)",
+                    "qty": 4,
+                    "months": 3,
+                    "volume": 12,
+                    "unit": "Unit Bulan",
+                    "unitPrice": 2750000,
+                    "totalPrice": 33000000,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

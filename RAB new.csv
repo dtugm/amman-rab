@@ -1,0 +1,162 @@
+,,,,,,,,,,
+,,,,,,,,,,
+,NO,ITEM,ORANG/ALAT/PAKET,JAM,HARI,BULAN,VOLUME,SATUAN,BIAYA,TOTAL
+,A) PoC,,,,,,,,,
+,"I. Persiapan, Integrasi & Pre-Processing Data",,,,,,,,,
+,A.,Biaya Langsung Personel,,,,,,,,
+,1,Honorarium Tenaga Ahli,,,,,,,,
+,,a. Honor Peneliti Utama dengan Jabatan Profesor,1,2,1,,2,Orang Jam,"Rp850,000","Rp1,700,000"
+,,b. Honor Peneliti Utama dengan Lektor,1,2,1,,2,Orang Jam,"Rp550,000","Rp1,100,000"
+,,c. Team Manager (Manajemen Proyek),2,,,0.25,0.5,Orang Bulan,"Rp7,000,000","Rp3,500,000"
+,,d. AI Engineer (Pengembang Model Deep Learning),2,,,0.25,0.5,Orang Bulan,"Rp6,500,000","Rp3,250,000"
+,,e. Remote Sensing Engineer (Analisis Spasiotemporal),2,,,0.25,0.5,Orang Bulan,"Rp6,500,000","Rp3,250,000"
+,,f. IT Specialist (Pembuatan Dashboard Monitoring),2,,,0.25,0.5,Orang Bulan,"Rp6,500,000","Rp3,250,000"
+,,g. GIS Engineer (Digitasi on Screen),2,,,0.25,0.5,Orang Bulan,"Rp6,500,000","Rp3,250,000"
+,,,,,,,,,Total A,"Rp19,300,000"
+,B,Biaya Langsung Non Personil,,,,,,,,
+,1,Sewa Peralatan dan Perlengkapan,,,,,,,,
+,,"a. PC High spec (AMD Ryzen 7, 64 GB, VGA RTX 5060 TI)",2,,,0.25,0.5,Unit Bulan,"Rp3,500,000","Rp1,750,000"
+,,"b. Laptop High Spec (Core i5, 16 GB, RTX 3050)",5,,,0.25,1.25,Unit Bulan,"Rp2,750,000","Rp3,437,500"
+,,c. Subscription Google Cloud Platform,1,,,12,12,Unit Bulan,"Rp8,400,000","Rp100,800,000"
+,,d. Subscription Planetscope,1,,,12,12,Unit Bulan,"Rp4,250,000","Rp51,000,000"
+,,e. NAS (Network attached storage) untuk server,2,,,12,24,Unit Bulan,"Rp700,000","Rp16,800,000"
+,,,,,,,,,Total B,"Rp173,787,500"
+,,,,,,,,,Total I,"Rp193,087,500"
+,II. Pembuatan Training Dataset,,,,,,,,,
+,A.,Biaya Langsung Personel,,,,,,,,
+,1,Honorarium Tenaga Ahli,,,,,,,,
+,,a. Honor Peneliti Utama dengan Jabatan Profesor,1,2,4,,8,Orang Jam,"Rp850,000","Rp6,800,000"
+,,b. Honor Peneliti Utama dengan Lektor,1,2,4,,8,Orang Jam,"Rp550,000","Rp4,400,000"
+,,c. Team Manager (Manajemen Proyek),2,,,1,2,Orang Bulan,"Rp7,000,000","Rp14,000,000"
+,,d. AI Engineer (Pengembang Model Deep Learning),2,,,1,2,Orang Bulan,"Rp6,500,000","Rp13,000,000"
+,,e. Remote Sensing Engineer (Analisis Spasiotemporal),2,,,1,2,Orang Bulan,"Rp6,500,000","Rp13,000,000"
+,,f. IT Specialist (Pembuatan Dashboard Monitoring),2,,,1,2,Orang Bulan,"Rp6,500,000","Rp13,000,000"
+,,g. GIS Engineer (Digitasi on Screen),2,,,1,2,Orang Bulan,"Rp6,500,000","Rp13,000,000"
+,,,,,,,,,Total A,"Rp77,200,000"
+,B,Biaya Langsung Non Personil,,,,,,,,
+,1,Sewa Peralatan dan Perlengkapan,,,,,,,,
+,,"a. PC High spec (AMD Ryzen 7, 64 GB, VGA RTX 5060 TI)",2,,,1,2,Unit Bulan,"Rp3,500,000","Rp7,000,000"
+,,"b. Laptop High Spec (Core i5, 16 GB, RTX 3050)",4,,,1,4,Unit Bulan,"Rp2,750,000","Rp11,000,000"
+,,,,,,,,,Total B,"Rp18,000,000"
+,,,,,,,,,Total II,"Rp95,200,000"
+,III. Pengembangan Model AI,,,,,,,,,
+,A.,Biaya Langsung Personel,,,,,,,,
+,1,Honorarium Tenaga Ahli,,,,,,,,
+,,a. Honor Peneliti Utama dengan Jabatan Profesor,1,2,2,,4,Orang Jam,"Rp850,000","Rp3,400,000"
+,,b. Honor Peneliti Utama dengan Lektor,1,2,2,,4,Orang Jam,"Rp550,000","Rp2,200,000"
+,,c. Team Manager (Manajemen Proyek),2,,,0.5,1,Orang Bulan,"Rp7,000,000","Rp7,000,000"
+,,d. AI Engineer (Pengembang Model Deep Learning),2,,,0.5,1,Orang Bulan,"Rp6,500,000","Rp6,500,000"
+,,e. Remote Sensing Engineer (Analisis Spasiotemporal),2,,,0.5,1,Orang Bulan,"Rp6,500,000","Rp6,500,000"
+,,f. IT Specialist (Pembuatan Dashboard Monitoring),2,,,0.5,1,Orang Bulan,"Rp6,500,000","Rp6,500,000"
+,,g. GIS Engineer (Digitasi on Screen),2,,,0.5,1,Orang Bulan,"Rp6,500,000","Rp6,500,000"
+,,,,,,,,,Total A,"Rp38,600,000"
+,B,Biaya Langsung Non Personil,,,,,,,,
+,1,Sewa Peralatan dan Perlengkapan,,,,,,,,
+,,"a. PC High spec (AMD Ryzen 7, 64 GB, VGA RTX 5060 TI)",2,,,0.5,1,Unit Bulan,"Rp3,500,000","Rp3,500,000"
+,,"b. Laptop High Spec (Core i5, 16 GB, RTX 3050)",4,,,0.5,2,Unit Bulan,"Rp2,750,000","Rp5,500,000"
+,,,,,,,,,Total B,"Rp9,000,000"
+,,,,,,,,,Total III,"Rp47,600,000"
+,IV. Pembuatan Dashboard Monitoring,,,,,,,,,
+,A.,Biaya Langsung Personel,,,,,,,,
+,1,Honorarium Tenaga Ahli,,,,,,,,
+,,a. Honor Peneliti Utama dengan Jabatan Profesor,1,2,2,,4,Orang Jam,"Rp850,000","Rp3,400,000"
+,,b. Honor Peneliti Utama dengan Lektor,1,2,2,,4,Orang Jam,"Rp550,000","Rp2,200,000"
+,,c. Team Manager (Manajemen Proyek),2,,,0.5,1,Orang Bulan,"Rp7,000,000","Rp7,000,000"
+,,d. AI Engineer (Pengembang Model Deep Learning),2,,,0.5,1,Orang Bulan,"Rp6,500,000","Rp6,500,000"
+,,e. IT Specialist (Pembuatan Dashboard Monitoring),2,,,0.5,1,Orang Bulan,"Rp6,500,000","Rp6,500,000"
+,,,,,,,,,Total A,"Rp25,600,000"
+,B,Biaya Langsung Non Personil,,,,,,,,
+,1,Sewa Peralatan dan Perlengkapan,,,,,,,,
+,,"a. PC High spec (AMD Ryzen 7, 64 GB, VGA RTX 5060 TI)",2,,,0.5,1,Unit Bulan,"Rp3,500,000","Rp3,500,000"
+,,"b. Laptop High Spec (Core i5, 16 GB, RTX 3050)",4,,,0.5,2,Unit Bulan,"Rp2,750,000","Rp5,500,000"
+,,,,,,,,,Total B,"Rp9,000,000"
+,,,,,,,,,Total IV,"Rp34,600,000"
+,,,,,,,,,Total PoC,"Rp370,487,500"
+,B) Phase I,,,,,,,,,
+,I. Retraining AI Data,,,,,,,,,
+,A.,Biaya Langsung Personel,,,,,,,,
+,1,Honorarium Tenaga Ahli,,,,,,,,
+,,a. Honor Peneliti Utama dengan Jabatan Profesor,1,2,4,,8,Orang Jam,"Rp850,000","Rp6,800,000"
+,,b. Honor Peneliti Utama dengan Lektor,1,2,4,,8,Orang Jam,"Rp550,000","Rp4,400,000"
+,,c. Team Manager (Manajemen Proyek),2,,,1,2,Orang Bulan,"Rp7,000,000","Rp14,000,000"
+,,d. AI Engineer (Pengembang Model Deep Learning),2,,,1,2,Orang Bulan,"Rp6,500,000","Rp13,000,000"
+,,e. Remote Sensing Engineer (Analisis Spasiotemporal),2,,,1,2,Orang Bulan,"Rp6,500,000","Rp13,000,000"
+,,f. IT Specialis (Pengembang Web App dan Desktop App),2,,,1,2,Orang Bulan,"Rp6,500,000","Rp13,000,000"
+,,g. GIS Engineer (Digitasi on Screen),2,,,1,2,Orang Bulan,"Rp6,500,000","Rp13,000,000"
+,,,,,,,,,Total A,"Rp77,200,000"
+,B,Biaya Langsung Non Personil,,,,,,,,
+,1,Sewa Peralatan dan Perlengkapan,,,,,,,,
+,,"a. PC High spec (AMD Ryzen 7, 64 GB, VGA RTX 5060 TI)",2,,,1,2,Unit Bulan,"Rp3,500,000","Rp7,000,000"
+,,"b. Laptop High Spec (Core i5, 16 GB, RTX 3050)",4,,,1,4,Unit Bulan,"Rp2,750,000","Rp11,000,000"
+,,,,,,,,,Total B,"Rp18,000,000"
+,,,,,,,,,Total I,"Rp95,200,000"
+,II. Pengembangan AI Forest Change Detection di AMMAN,,,,,,,,,
+,A.,Biaya Langsung Personel,,,,,,,,
+,1,Honorarium Tenaga Ahli,,,,,,,,
+,,a. Honor Peneliti Utama dengan Jabatan Profesor,1,2,4,,4,Orang Jam,"Rp850,000","Rp3,400,000"
+,,b. Honor Peneliti Utama dengan Lektor,1,2,4,,4,Orang Jam,"Rp550,000","Rp2,200,000"
+,,c. Team Manager (Manajemen Proyek),2,,,1,2,Orang Bulan,"Rp7,000,000","Rp14,000,000"
+,,d. AI Engineer (Pengembang Model Deep Learning),2,,,1,2,Orang Bulan,"Rp6,500,000","Rp13,000,000"
+,,e. Remote Sensing Engineer (Analisis Spasiotemporal),2,,,1,2,Orang Bulan,"Rp6,500,000","Rp13,000,000"
+,,f. IT Specialis (Pengembang Web App dan Desktop App),2,,,1,2,Orang Bulan,"Rp6,500,000","Rp13,000,000"
+,,g. GIS Engineer (Digitasi on Screen),2,,,1,2,Orang Bulan,"Rp6,500,000","Rp13,000,000"
+,,,,,,,,,Total A,"Rp71,600,000"
+,B,Biaya Langsung Non Personil,,,,,,,,
+,1,Sewa Peralatan dan Perlengkapan,,,,,,,,
+,,"a. PC High spec (AMD Ryzen 7, 64 GB, VGA RTX 5060 TI)",2,,,1,2,Unit Bulan,"Rp3,500,000","Rp7,000,000"
+,,"b. Laptop High Spec (Core i5, 16 GB, RTX 3050)",4,,,1,4,Unit Bulan,"Rp2,750,000","Rp11,000,000"
+,,,,,,,,,Total B,"Rp18,000,000"
+,,,,,,,,,Total II,"Rp89,600,000"
+,,,,,,,,,Total Phase I,"Rp184,800,000"
+,C) Phase II,,,,,,,,,
+,I. Implementasi AI pada Server AMMAN,,,,,,,,,
+,A.,Biaya Langsung Personel,,,,,,,,
+,1,Honorarium Tenaga Ahli,,,,,,,,
+,,a. Honor Peneliti Utama dengan Jabatan Profesor,1,2,12,,24,Orang Jam,"Rp850,000","Rp20,400,000"
+,,b. Honor Peneliti Utama dengan Lektor,1,2,12,,24,Orang Jam,"Rp550,000","Rp13,200,000"
+,,c. Team Manager (Manajemen Proyek),2,,,3,6,Orang Bulan,"Rp7,000,000","Rp42,000,000"
+,,d. AI Engineer (Pengembang Model Deep Learning),2,,,3,6,Orang Bulan,"Rp6,500,000","Rp39,000,000"
+,,e. IT Specialis (Pengembang Web App dan Desktop App),2,,,3,6,Orang Bulan,"Rp6,500,000","Rp39,000,000"
+,,,,,,,,,Total A,"Rp153,600,000"
+,B,Biaya Langsung Non Personil,,,,,,,,
+,1,Sewa Peralatan dan Perlengkapan,,,,,,,,
+,,"a. PC High spec (AMD Ryzen 7, 64 GB, VGA RTX 5060 TI)",2,,,3,6,Unit Bulan,"Rp3,500,000","Rp21,000,000"
+,,"b. Laptop High Spec (Core i5, 16 GB, RTX 3050)",4,,,3,12,Unit Bulan,"Rp2,750,000","Rp33,000,000"
+,,,,,,,,,Total B,"Rp54,000,000"
+,,,,,,,,,Total I,"Rp207,600,000"
+,II. Pengembangan Single Interface pada Server AMMAN,,,,,,,,,
+,A.,Biaya Langsung Personel,,,,,,,,
+,1,Honorarium Tenaga Ahli,,,,,,,,
+,,a. Honor Peneliti Utama dengan Jabatan Profesor,1,2,12,,24,Orang Jam,"Rp850,000","Rp20,400,000"
+,,b. Honor Peneliti Utama dengan Lektor,1,2,12,,24,Orang Jam,"Rp550,000","Rp13,200,000"
+,,c. Team Manager (Manajemen Proyek),2,,,3,6,Orang Bulan,"Rp7,000,000","Rp42,000,000"
+,,d. AI Engineer (Pengembang Model Deep Learning),2,,,3,6,Orang Bulan,"Rp6,500,000","Rp39,000,000"
+,,e. IT Specialis (Pengembang Web App dan Desktop App),2,,,3,6,Orang Bulan,"Rp6,500,000","Rp39,000,000"
+,,,,,,,,,Total A,"Rp153,600,000"
+,B,Biaya Langsung Non Personil,,,,,,,,
+,1,Sewa Peralatan dan Perlengkapan,,,,,,,,
+,,"a. PC High spec (AMD Ryzen 7, 64 GB, VGA RTX 5060 TI)",2,,,3,6,Unit Bulan,"Rp3,500,000","Rp21,000,000"
+,,"b. Laptop High Spec (Core i5, 16 GB, RTX 3050)",4,,,3,12,Unit Bulan,"Rp2,750,000","Rp33,000,000"
+,,,,,,,,,Total B,"Rp54,000,000"
+,,,,,,,,,Total II,"Rp207,600,000"
+,III. Monitoring dan Validasi Hasil AI,,,,,,,,,
+,A.,Biaya Langsung Personel,,,,,,,,
+,1,Honorarium Tenaga Ahli,,,,,,,,
+,,a. Honor Peneliti Utama dengan Jabatan Profesor,1,2,12,,24,Orang Jam,"Rp850,000","Rp20,400,000"
+,,b. Honor Peneliti Utama dengan Lektor,1,2,12,,24,Orang Jam,"Rp550,000","Rp13,200,000"
+,,c. Team Manager (Manajemen Proyek),2,,,3,6,Orang Bulan,"Rp7,000,000","Rp42,000,000"
+,,d. AI Engineer (Pengembang Model Deep Learning),2,,,3,6,Orang Bulan,"Rp6,500,000","Rp39,000,000"
+,,e. Remote Sensing Engineer (Analisis Spasiotemporal),2,,,3,6,Orang Bulan,"Rp6,500,000","Rp39,000,000"
+,,f. IT Specialist (Pembuatan Dashboard Monitoring),2,,,3,6,Orang Bulan,"Rp6,500,000","Rp39,000,000"
+,,g. GIS Engineer (Digitasi on Screen),2,,,3,6,Orang Bulan,"Rp6,500,000","Rp39,000,000"
+,,,,,,,,,Total A,"Rp192,600,000"
+,B,Biaya Langsung Non Personil,,,,,,,,
+,1,Sewa Peralatan dan Perlengkapan,,,,,,,,
+,,"a. PC High spec (AMD Ryzen 7, 64 GB, VGA RTX 5060 TI)",2,,,3,6,Unit Bulan,"Rp3,500,000","Rp21,000,000"
+,,"b. Laptop High Spec (Core i5, 16 GB, RTX 3050)",4,,,3,12,Unit Bulan,"Rp2,750,000","Rp33,000,000"
+,,,,,,,,,Total B,"Rp54,000,000"
+,,,,,,,,,Total III,"Rp246,600,000"
+,,,,,,,,,Total Phase II,"Rp661,800,000"
+,Total,,,,,,,,,"Rp1,217,087,500"
+,DPP,,,,,,,,,"Rp1,350,967,125"
+,DPP + Ppn 11%,,,,,,,,,"Rp1,499,573,509"

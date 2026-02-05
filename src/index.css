@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #0077ff;
+  --color-secondary: #f1677c;
+  --color-tertiary: #6a658e;
+  --font-sans: "Plus Jakarta Sans", sans-serif;
+}
+
+.grid-cols-rab {
+  grid-template-columns: 3fr 1fr 1fr 1fr 1fr 1fr 1fr 1.5fr;
+}
+
+body {
+  background-color: #f3f4f6;
+  background: linear-gradient(135deg, #0077ff 0%, #6a658e 50%, #f1677c 100%);
+  background-attachment: fixed;
+  min-height: 100vh;
+  margin: 0;
+  color: #1a1a1a;
+}
