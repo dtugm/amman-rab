@@ -25,7 +25,7 @@ export const BudgetSummary: React.FC<BudgetSummaryProps> = ({
       {/* Header / Clickable Toggle */}
       <div
         onClick={() => setIsOpen(!isOpen)}
-        className="p-6 flex items-center justify-between cursor-pointer hover:bg-white/5 transition-colors"
+        className="p-4 md:p-6 flex items-center justify-between cursor-pointer hover:bg-white/5 transition-colors"
       >
         <h2 className="text-xl font-bold text-white flex items-center gap-3">
           {isOpen ? (
@@ -51,7 +51,7 @@ export const BudgetSummary: React.FC<BudgetSummaryProps> = ({
             exit={{ height: 0, opacity: 0 }}
             transition={{ duration: 0.3, ease: "easeInOut" }}
           >
-            <div className="p-6 pt-0 overflow-x-auto">
+            <div className="p-4 pt-0 md:p-6 md:pt-0 overflow-x-auto">
               <table className="w-full text-sm text-left text-white/90">
                 <tbody>
                   <tr className="border-b border-white/5 hover:bg-white/5 transition-colors">
